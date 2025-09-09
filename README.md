@@ -1,10 +1,9 @@
-# 📊 Vrinda Store Annual Report 2022
+Vrinda Store Annual Report 2022
 
 This repository contains an Excel-based interactive dashboard that visualizes key metrics for **Vrinda Store** over the year 2022. The report highlights sales, order performance, customer demographics, and channel distribution in a clean and engaging format.
 
----
 
-## 📌 Key Features
+ Key Features
 
 - **Interactive Filters** for:
   - Month
@@ -17,14 +16,13 @@ This repository contains an Excel-based interactive dashboard that visualizes ke
   - 🌍 Top 5 States by Sales
   - 👥 Orders by Age & Gender
   - 🔄 Channel-wise Order Breakdown
-  - ## 🛠️ Tech Stack
+    
+ Tech Stack
 
 - **Microsoft Excel** (with PivotTables, Slicers, Charts)
 - Custom styling and layouting for dashboard design
 
----
-
-## 📈 Metrics Covered
+ Metrics Covered
 
 | Metric                 | Description                                 |
 |------------------------|---------------------------------------------|
@@ -35,29 +33,24 @@ This repository contains an Excel-based interactive dashboard that visualizes ke
 | Age vs Gender          | Orders segmented by gender and age group    |
 | Channel Performance    | Sales across platforms (Amazon, Flipkart…) |
 
----
-
-## 🔍 Use Cases
+ Use Cases
 
 - E-commerce performance monitoring
 - Category/channel performance analysis
 - Customer demographic insights
 - Monthly trend reporting
 
----
 
-## 📥 How to Use
+How to Use
 
 1. Download the `Vrinda_Store_Report_2022.xlsx` file.
 2. Open it in **Microsoft Excel (Office 365 or 2019+)**.
 3. Use the slicers on the left to interact with the report.
 
----
-
-## 📬 Contact
+Contact
 
 For any suggestions or questions, feel free to raise an issue or reach out.
-## 🖼️ Dashboard Screenshot
-
-![Vrinda Store Annual Report 2022](Vrinda Store Excel.png)
+ Dashboard Screenshot
+ 
+([Vrinda Store Excel.png](https://github.com/sumitchatt10/Vrinda-Store-Data-Analysis-Report_-Excel-/blob/main/Vrinda%20Store%20Excel.png))
 
